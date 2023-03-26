@@ -1,0 +1,18 @@
+Open file: 300x300.png success
+CalculationOfAverageTime: its-1000 -> aveTimes-0.102422 -> fullTime-102.422
+
+Open file: 400x400.png success
+CalculationOfAverageTime: its-1000 -> aveTimes-0.190065 -> fullTime-190.065
+
+Open file: 500x500.png success
+CalculationOfAverageTime: its-1000 -> aveTimes-0.245564 -> fullTime-245.564
+
+Open file: 600x600.png success
+CalculationOfAverageTime: its-1000 -> aveTimes-0.338028 -> fullTime-338.028
+
+Open file: 950x950.png success
+CalculationOfAverageTime: its-1000 -> aveTimes-1.02242 -> fullTime-1022.42
+
+Open file: 2400x2400.png success
+CalculationOfAverageTime: its-1000 -> aveTimes-6.2471 -> fullTime-6247.1
+
